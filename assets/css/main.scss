@@ -1,0 +1,113 @@
+---
+---
+
+@import '_main';
+
+@keyframes fadeInUp {
+    0% {
+      transform: translateY(100px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0%);
+      opacity: 1;
+    }
+  }
+  
+.fadeInUp-animation {
+    animation: 0.75s fadeInUp;
+}
+
+.main_container {
+  margin-top: 1.5rem;
+}
+
+.about_container {
+  display: grid; 
+  grid-template-columns: 1fr 3fr; 
+  grid-template-areas: 'sidebar main';
+}
+
+.about_container aside {
+  grid-area: sidebar; 
+  display: block; 
+  position: sticky; 
+  top: 5rem; 
+  height: calc(100vh - 7rem);
+  padding-left: .25rem;
+  margin-left: -.25rem;
+  margin-right: .25rem;
+  overflow-y: auto;
+}
+
+.side-btn {
+  border: 0;
+  text-align: left;
+}
+
+.main_container h4 {
+  color: purple;
+}
+
+.mission-card-title {
+  color: var(--bs-success);
+  background-color: #{tint-color($success, 90%)};
+}
+
+.card-title {
+  color: var(--bs-success);
+}
+
+.navbar-brand >span:hover {
+  color: purple;
+}
+
+.research-div:hover {
+  background-color: #{tint-color($black, 97%)};
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.anchorjs-link {
+  font-weight: 400;
+  color: rgba(13, 110, 253, 0.5);
+  transition: color 0.15s ease-in-out;
+}
+
+.anchorjs-link {
+  opacity: 1;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+.btn_publication {
+  border-width: 0;
+}
+
+.pub_bib_body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #{tint-color($black, 97%)};
+}
+
+.side-btn {
+  color: purple
+}
+
+.side-btn:hover {
+  background-color: purple
+}
+
+.side-btn:focus {
+  background-color: purple
+}
+
+#schedule_table tr:hover td {
+  background-color: #{tint-color($black, 97%)};
+}
+
+html {
+  scroll-padding-top: 4rem;
+}
+

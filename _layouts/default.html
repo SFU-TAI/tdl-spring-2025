@@ -1,0 +1,40 @@
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DGTHLHXK5L"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-DGTHLHXK5L');
+  </script>
+
+  <body>
+    
+    {% include header.html %}
+    
+    <div class="container main_container">
+        <div class="row">
+            <div class="fadeInUp-animation" id="content" style="min-height: 800px;">
+                {{ content }}
+            </div>
+        </div>
+
+    </div>
+
+
+    {% include footer.html %}
+    {% include scripts.html %}
+
+  </body>
+
+  <script>
+    $("#nav_{{ page.barename }}").addClass('active');
+  </script>
+</html>

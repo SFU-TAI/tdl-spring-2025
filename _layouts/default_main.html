@@ -1,0 +1,82 @@
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DGTHLHXK5L"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-DGTHLHXK5L');
+  </script>
+
+  <body>
+    
+    {% include header.html %}
+    
+    <div class="container main_container">
+        <div class="row">
+            <div class="fadeInUp-animation" id="content" style="min-height: 800px;">
+
+                <div class="container about_container">
+                    <aside>
+                        <div class="card text-dark bg-light mb-3">
+                            <div class="card-header">
+                                <h5>CMPT 419/983</h5>
+                                <div class="text-muted">Specifal Topics in Artificial Intelligence</div>
+                                <h5>Trustworthy Deep Learning</h5>
+                            </div>
+                        </div>
+                        <div>Spring 2025 (Jan 7 - Apr 8) In Person</div>
+                        <ul>
+                          <li>Tuesdays 4:30 - 6:20 PM @ <a href="https://www.sfu.ca/stat-actsci/contact-us/directions/directions_b9200-.html" target="_blank">B9201</a></li>
+                          <li>Thursdays 5:30 - 6:20 PM @ <a href="https://www.sfu.ca/stat-actsci/contact-us/directions/directions_AQ3181.html" target="_blank">AQ3181</a></li>
+                        </ul>
+                        <hr>
+                        <p><b>Instructor</b>: <a href="https://linyil.com" target="_blank">Linyi Li</a> (<a href="https://sfu-tai.github.io/" target="_blank">TAI Lab</a>) <code>linyi@sfu.ca</code><br>
+                        Office hour: Thursdays 4:20 - 5:20 PM @ TASC1 9215</p>
+                        <div><b>TAs</b>:</div>
+                        <ul>
+                          <li>Pegah Aryadoost <code>paa40@sfu.ca</code><br>
+                          Office hour: <code>TBA</code></li>
+                        </ul>
+
+                        <nav class="navbar navbar-light rounded bg-light flex-column align-items-stretch p-3" style="margin-right: 0.5rem">
+                            <a class="btn btn-outline-success side-btn" href="#prerequisites">Prerequisites</a>
+                            <a class="btn btn-outline-success side-btn" href="#textbook">Textbook and Reading Materials</a>
+                            <a class="btn btn-outline-success side-btn" href="#grading">Grading</a>
+                            <a class="btn btn-outline-success side-btn" href="#schedule">Schedule and Syllabus</a>
+                            <a class="btn btn-outline-success side-btn" href="#ext">Extended Topics</a>
+                            <a class="btn btn-outline-success side-btn" href="#projects">Assignments and Project</a>
+                            <a class="btn btn-outline-success side-btn" href="#ethics">Ethics Statement</a>
+                            <a class="btn btn-outline-success side-btn" href="#integrity">Academic Integrity Policy</a>
+                            <a class="btn btn-outline-success side-btn" href="#ack">Acknowledgement</a>
+                        </nav>
+                  
+                    </aside>
+                  
+                    <div class="col-12">
+                      {{ content }}
+                    </div>
+                  </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+    {% include footer.html %}
+    {% include scripts.html %}
+
+  </body>
+
+  <script>
+    $("#nav_{{ page.barename }}").addClass('active');
+  </script>
+</html>
