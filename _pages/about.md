@@ -13,7 +13,7 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 
 <h4 id='prerequisites'>Prerequisites <a href="#prerequisites">#</a></h4>
 
-There is no formal pre-requisite. Background in algorithms, calculus, linear algebra (e.g., MATH 151, MATH 152, MATH 232, CMPT 225), CMPT 410/726 Machine Learning **strongly recommended**. It is also recommended to have background in CMPT 412/762 Computer Vision and CMPT 713 NLP.
+There is no formal pre-requisite. Background in algorithms, calculus, linear algebra (e.g., MATH 151, MATH 152, MATH 232, CMPT 225), CMPT 410/726 Machine Learning **strongly recommended**. It is also recommended to have a background in CMPT 412/762 Computer Vision and CMPT 713 NLP.
 
 
 <h4 id='textbook'>Textbook and Reading Materials <a href="#textbook">#</a></h4>
