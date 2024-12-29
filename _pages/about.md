@@ -50,7 +50,7 @@ There is no primary reference material. We will read an assortment of research p
 | Week 4 (1/26 - 2/1)   | Tue (1/28) 2h  | (Lecture) Robustness Threats in Deep Learning - Defenses     |                                                         | TBA     |
 |                       | Thur (1/30) 1h | (Lecture) Robustness Threats in Deep Learning - Certification |                                                         | TBA     |
 | Week 5 (2/2 - 2/8)    | Tue (2/4) 2h   | (Lecture) Robustness Threats in Deep Learning - Certification |                                                         | TBA     |
-|                       | Thur (2/6) 1h  | (Lecture) Course Project Release                             | Course Project Release<br>Due: 2/11 Questions & Summary | TBA     |
+|                       | Thur (2/6) 1h  | (Lecture) Course Project Release                             | Course Project Release                                  | TBA     |
 | Week 6 (2/9 - 2/15)   | Tue (2/11) 2h  | (Presentation) Deep Learning Privacy I - Differential Privacy |                                                         | TBA     |
 |                       | Thur (2/13) 1h | (Presentation) Deep Learning Privacy II - Membership Inference Attacks | Due: 2/15 Peer Evaluation & Summary                     | TBA     |
 | Week 7 (2/16 - 2/22)  | Reading Break  |                                                              |                                                         | TBA     |
@@ -59,7 +59,7 @@ There is no primary reference material. We will read an assortment of research p
 | Week 9 (3/2 - 3/8)    | Tue (3/4) 2h   | (Presentation) Deep Learning Privacy V - Model Stealing      |                                                         | TBA     |
 |                       | Thur (3/6) 1h  | (Presentation) Deep Learning Privacy VI - Data Stealing      | Due: 3/8 Peer Evaluation & Summary                      | TBA     |
 | Week 10 (3/9 - 3/15)  | Tue (3/11) 2h  | (Lecture) Large Language Models - Recap                      |                                                         | TBA     |
-|                       | Thur (3/13) 1h | (Lecture) LLM Trustworthiness Overview                       | Due: 3/15 Peer Evaluation & Summary                     | TBA     |
+|                       | Thur (3/13) 1h | (Lecture) LLM Trustworthiness Overview                       |                                                         | TBA     |
 | Week 11 (3/16 - 3/22) | Tue (3/18) 2h  | (Presentation) LLM Alignment Tuning - I                      |                                                         | TBA     |
 |                       | Thur (3/20) 1h | (Presentation) LLM Alignment Tuning - II                     | Due: 3/22 Peer Evaluation & Summary                     | TBA     |
 | Week 12 (3/23 - 3/29) | Tue (3/25) 2h  | (Presentation) LLM Prompt Injection - I                      |                                                         | TBA     |
