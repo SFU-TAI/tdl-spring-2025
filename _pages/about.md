@@ -13,7 +13,7 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 
 <h4 id='prerequisites'>Prerequisites <a href="#prerequisites">#</a></h4>
 
-There is no formal pre-requisites. Background in algorithms, calculus, linear algebra (e.g., MATH 151, MATH 152, MATH 232, CMPT 225), CMPT 410/726 Machine Learning **strongly recommended**. It is also recommended to have background in CMPT 412/762 Computer Vision and CMPT 713 NLP.
+There is no formal pre-requisite. Background in algorithms, calculus, linear algebra (e.g., MATH 151, MATH 152, MATH 232, CMPT 225), CMPT 410/726 Machine Learning **strongly recommended**. It is also recommended to have background in CMPT 412/762 Computer Vision and CMPT 713 NLP.
 
 
 <h4 id='textbook'>Textbook and Reading Materials <a href="#textbook">#</a></h4>
@@ -30,7 +30,7 @@ There is no primary reference material. We will read an assortment of research p
 
 <h4 id='grading'>Grading <a href='#grading'>#</a></h4>
 
-<code>(Tentative)</code> 40% course project + 10% Homework 0 + 30% paper presentation + 20% from 5 questions and 5 summaries (each 2%)
+<code>(Tentative)</code> 10% Homework 0 + 40% course project + 30% paper presentation + 20% from note of peer evaluation and summary
 
 <h4 id='schedule'>Schedule and Syllabus <a href='#schedule'>#</a></h4>
 
@@ -51,22 +51,22 @@ There is no primary reference material. We will read an assortment of research p
 |                       | Thur (1/30) 1h | (Lecture) Robustness Threats in Deep Learning - Certification |                                                         | TBA     |
 | Week 5 (2/2 - 2/8)    | Tue (2/4) 2h   | (Lecture) Robustness Threats in Deep Learning - Certification |                                                         | TBA     |
 |                       | Thur (2/6) 1h  | (Lecture) Course Project Release                             | Course Project Release<br>Due: 2/11 Questions & Summary | TBA     |
-| Week 6 (2/9 - 2/15)   | Tue (2/11) 2h  | (Presentation) Deep Learning Privacy I - Differential Privacy | Due: 2/13 Questions & Summary                           | TBA     |
-|                       | Thur (2/13) 1h | (Presentation) Deep Learning Privacy II - Membership Inference Attacks |                                                         | TBA     |
-| Week 7 (2/16 - 2/22)  | Reading Break  |                                                              | Due: 2/25 Questions & Summary                           | TBA     |
-| Week 8 (2/23 - 3/1)   | Tue (2/25) 2h  | (Presentation) Deep Learning Privacy III - Machine Unlearning | Due: 2/27 Questions & Summary                           | TBA     |
-|                       | Thur (2/27) 1h | (Presentation) Deep Learning Privacy IV - Watermarking       | Due: 3/4 Questions & Summary                            | TBA     |
-| Week 9 (3/2 - 3/8)    | Tue (3/4) 2h   | (Presentation) Deep Learning Privacy V - Model Stealing      | Due: 3/6 Questions & Summary                            | TBA     |
-|                       | Thur (3/6) 1h  | (Presentation) Deep Learning Privacy VI - Data Stealing      | Due: 3/11 Questions & Summary                           | TBA     |
-| Week 10 (3/9 - 3/15)  | Tue (3/11) 2h  | (Lecture) Large Language Models - Recap                      | Due: 3/13 Questions & Summary                           | TBA     |
-|                       | Thur (3/13) 1h | (Lecture) LLM Trustworthiness Overview                       | Due: 3/18 Questions & Summary                           | TBA     |
-| Week 11 (3/16 - 3/22) | Tue (3/18) 2h  | (Presentation) LLM Alignment Tuning - I                      | Due: 3/20 Questions & Summary                           | TBA     |
-|                       | Thur (3/20) 1h | (Presentation) LLM Alignment Tuning - II                     | Due: 3/25 Questions & Summary                           | TBA     |
-| Week 12 (3/23 - 3/29) | Tue (3/25) 2h  | (Presentation) LLM Prompt Injection - I                      | Due: 3/27 Questions & Summary                           | TBA     |
-|                       | Thur (3/27) 1h | (Presentation) LLM Prompt Injection - II                     | Due: 4/1 Questions & Summary                            | TBA     |
-| Week 13 (3/30 - 4/5)  | Tue (4/1) 2h   | (Presentation) LLM Finetuning Attacks - I                    | Due: 4/3 & Summary; Course Project                      | TBA     |
-|                       | Thur (4/3) 1h  | (Presentation) LLM Finetuning Attacks - II                   |                                                         | TBA     |
-| Week 14 (4/6 - 4/12)  | Tue (4/8) 2h   | (Interactive Lecture) Course Project Discussion, Closing Remarks | Due: All Presentation Feedbacks                         | TBA     |
+| Week 6 (2/9 - 2/15)   | Tue (2/11) 2h  | (Presentation) Deep Learning Privacy I - Differential Privacy |                                                         | TBA     |
+|                       | Thur (2/13) 1h | (Presentation) Deep Learning Privacy II - Membership Inference Attacks | Due: 2/15 Peer Evaluation & Summary                     | TBA     |
+| Week 7 (2/16 - 2/22)  | Reading Break  |                                                              |                                                         | TBA     |
+| Week 8 (2/23 - 3/1)   | Tue (2/25) 2h  | (Presentation) Deep Learning Privacy III - Machine Unlearning & Watermarking |                                                         | TBA     |
+|                       | Thur (2/27) 1h | *Course cancelled*                                           | Due: 3/1 Peer Evaluation & Summary                      |         |
+| Week 9 (3/2 - 3/8)    | Tue (3/4) 2h   | (Presentation) Deep Learning Privacy V - Model Stealing      |                                                         | TBA     |
+|                       | Thur (3/6) 1h  | (Presentation) Deep Learning Privacy VI - Data Stealing      | Due: 3/8 Peer Evaluation & Summary                      | TBA     |
+| Week 10 (3/9 - 3/15)  | Tue (3/11) 2h  | (Lecture) Large Language Models - Recap                      |                                                         | TBA     |
+|                       | Thur (3/13) 1h | (Lecture) LLM Trustworthiness Overview                       | Due: 3/15 Peer Evaluation & Summary                     | TBA     |
+| Week 11 (3/16 - 3/22) | Tue (3/18) 2h  | (Presentation) LLM Alignment Tuning - I                      |                                                         | TBA     |
+|                       | Thur (3/20) 1h | (Presentation) LLM Alignment Tuning - II                     | Due: 3/22 Peer Evaluation & Summary                     | TBA     |
+| Week 12 (3/23 - 3/29) | Tue (3/25) 2h  | (Presentation) LLM Prompt Injection - I                      |                                                         | TBA     |
+|                       | Thur (3/27) 1h | (Presentation) LLM Prompt Injection - II                     | Due: 3/29 Peer Evaluation & Summary                     | TBA     |
+| Week 13 (3/30 - 4/5)  | Tue (4/1) 2h   | (Presentation) LLM Finetuning Attacks - I                    |                                                         | TBA     |
+|                       | Thur (4/3) 1h  | (Presentation) LLM Finetuning Attacks - II                   | Due: 4/5 Peer Evaluation & Summary                      | TBA     |
+| Week 14 (4/6 - 4/12)  | Tue (4/8) 2h   | (Interactive Lecture) Course Project Discussion, Closing Remarks |                                                         | TBA     |
 | Week 15 (4/13-4/19)   | Fri (4/19)     | Grade Released                                               |                                                         | TBA     |
 
 </div>
@@ -85,8 +85,15 @@ There is no primary reference material. We will read an assortment of research p
 - Homework 0: `TBA`
 - Course Project: `TBA`
 - Presentation Signing-up Sheet: `TBA`
-- Google Form for Question Submission: `TBA`
-- Google Form for Summary Submission: `TBA`
+- Note Submission: `TBA`
+
+
+<h4 id='info'>Information Platform <a href='#info'>#</a></h4>
+
+- Course website (here)
+- CourSys and Canvas: `TBA`
+- Piazza: `TBA`
+- Syllabus link: `TBA`
 
 <h4 id='ethics'>Ethics Statement <a href='#ethics'>#</a></h4>
 
