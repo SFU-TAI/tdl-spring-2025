@@ -30,7 +30,7 @@ There is no primary reference material. We will read an assortment of research p
 
 <h4 id='grading'>Grading <a href='#grading'>#</a></h4>
 
-<code>(Tentative)</code> 10% Homework 0 + 40% course project + 30% paper presentation + 20% from note of peer evaluation and summary
+10% Homework 0 (raw score) + 40% course project (1.1 × raw score with no cap)  + 30% paper presentation + 20% notes of peer evaluation and summary
 
 <h4 id='schedule'>Schedule and Syllabus <a href='#schedule'>#</a></h4>
 
@@ -42,7 +42,7 @@ There is no primary reference material. We will read an assortment of research p
 | Week                  | Date           | Topics (Tentative)                                           | Assignment & Due                                        | Reading |
 | --------------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------- |
 | Week 1 (1/5 - 1/11)   | Tue (1/7) 2h   | (Lecture) Syllabus, Introduction to Deep Learning I          | Homework 0 Release                                      | TBA     |
-|                       | Thur (1/9) 1h  | (Lecture) Introduction to Deep Learning II                   |                                                         | TBA     |
+|                       | Thur (1/9) 1h  | (Lecture) Homework 0 Explained, Introduction to Deep Learning II |                                                         | TBA     |
 | Week 2 (1/12 - 1/18)  | Tue (1/14) 2h  | (Lecture) Vision Models; Language Models; Trustworthy Deep Learning Overview |                                                         | TBA     |
 |                       | Thur (1/16) 1h | (Lecture) Robustness Threats in Deep Learning - Attacks      | Presentation Signing-up Sheet Release<br>Homework 0 Due | TBA     |
 | Week 3 (1/19 - 1/25)  | Tue (1/21) 2h  | (Lecture) Robustness Threats in Deep Learning - Attacks      |                                                         | TBA     |
