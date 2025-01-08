@@ -35,13 +35,13 @@ There is no primary reference material. We will read an assortment of research p
 <h4 id='schedule'>Schedule and Syllabus <a href='#schedule'>#</a></h4>
 
 
-*Slides will be updated as the term progresses. All slides are available in [this OneDrive folder](https://1sfu-my.sharepoint.com/:f:/g/personal/linyi_sfu_ca/Ek8hTSoodFpIgvg8y9oul3wBB3qXFXm5RY7U6yhIFXyDCg?e=iJnvy5){:target="_blank"}.*
+*Slides will be updated as the term progresses. All slides are available in [this OneDrive folder](https://1sfu-my.sharepoint.com/:f:/g/personal/linyi_sfu_ca/Ek8hTSoodFpIgvg8y9oul3wBB3qXFXm5RY7U6yhIFXyDCg?e=iJnvy5){:target="_blank"}. The slides are password encrypted - password posted in Canvas.*
 
 <div id='schedule_table' markdown="1">
 
 | Week                  | Date           | Topics (Tentative)                                           | Assignment & Due                                        | Reading |
 | --------------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------- |
-| Week 1 (1/5 - 1/11)   | Tue (1/7) 2h   | (Lecture) Syllabus, Introduction to Deep Learning I          | Homework 0 Release                                      | TBA     |
+| Week 1 (1/5 - 1/11)   | Tue (1/7) 2h   | (Lecture) Syllabus, Introduction to Deep Learning I [slides](https://1sfu-my.sharepoint.com/:b:/r/personal/linyi_sfu_ca/Documents/Trustworthy%20Deep%20Learning%20(Spring%202025)/TAI-Spring2025-W1P1.pdf?csf=1&web=1&e=mYJVFa)         | Homework 0 Release                                      | See References in Slides     |
 |                       | Thur (1/9) 1h  | (Lecture) Homework 0 Explained, Introduction to Deep Learning II |                                                         | TBA     |
 | Week 2 (1/12 - 1/18)  | Tue (1/14) 2h  | (Lecture) Vision Models; Language Models; Trustworthy Deep Learning Overview |                                                         | TBA     |
 |                       | Thur (1/16) 1h | (Lecture) Robustness Threats in Deep Learning - Attacks      | Presentation Signing-up Sheet Release<br>Homework 0 Due | TBA     |
