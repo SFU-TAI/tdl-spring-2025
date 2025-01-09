@@ -43,32 +43,34 @@ There is no primary reference material. We will read an assortment of research p
 | Week                  | Date           | Topics (Tentative)                                           | Assignment & Due                                        | Reading |
 | --------------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------- |
 | Week 1 (1/5 - 1/11)   | Tue (1/7) 2h   | (Lecture) [Syllabus, Introduction to Deep Learning I, Homework 0 Explained](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EWZHYbIfrXdFkmvGH4zEqDwBmyxnuB6A2VhetZ83UWmCLQ?e=U3dSaA)         | Homework 0 Release                                      | See References in slides     |
-|                       | Thur (1/9) 1h  | (Lecture) Introduction to Deep Learning II                   |                                                         | TBA     |
-| Week 2 (1/12 - 1/18)  | Tue (1/14) 2h  | (Lecture) Vision Models; Language Models; Trustworthy Deep Learning Overview |                                                         | TBA     |
-|                       | Thur (1/16) 1h | (Lecture) Robustness Threats in Deep Learning - Attacks      | Presentation Signing-up Sheet Release<br>Homework 0 Due | TBA     |
+|                       | Thur (1/9) 1h  | (Lecture) [Introduction to Deep Learning II](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EeXX-lAJ_SdKna9m7WIXwy0B5I2PQ2nJPY2fmKT1a1id4g?e=gurIS4) |                                                         | See References in Slides |
+| Week 2 (1/12 - 1/18)  | Tue (1/14) 2h  | (Lecture) Introduction to Deep Learning III; Trustworthy Deep Learning Overview |                                                         | TBA     |
+|                       | Thur (1/16) 1h | (Lecture) Robustness Threats in Deep Learning - Attacks      | Presentation Signing-up Sheet Release<br>Homework 0 Due (1/18) | TBA     |
 | Week 3 (1/19 - 1/25)  | Tue (1/21) 2h  | (Lecture) Robustness Threats in Deep Learning - Attacks      |                                                         | TBA     |
 |                       | Thur (1/23) 1h | (Lecture) Robustness Threats in Deep Learning - Defenses     |                                                         | TBA     |
 | Week 4 (1/26 - 2/1)   | Tue (1/28) 2h  | (Lecture) Robustness Threats in Deep Learning - Defenses     |                                                         | TBA     |
 |                       | Thur (1/30) 1h | (Lecture) Robustness Threats in Deep Learning - Certification |                                                         | TBA     |
 | Week 5 (2/2 - 2/8)    | Tue (2/4) 2h   | (Lecture) Robustness Threats in Deep Learning - Certification |                                                         | TBA     |
-|                       | Thur (2/6) 1h  | (Lecture) Course Project Release                             | Course Project Release                                  | TBA     |
-| Week 6 (2/9 - 2/15)   | Tue (2/11) 2h  | (Presentation) Deep Learning Privacy I - Differential Privacy |                                                         | TBA     |
-|                       | Thur (2/13) 1h | (Presentation) Deep Learning Privacy II - Membership Inference Attacks | Due: 2/15 Peer Evaluation & Summary                     | TBA     |
+|                       | Thur (2/6) 1h  | (Lecture) Course Project Release                             | Course Project Release<br>Presentation Signing-up Due (2/8) | TBA     |
+| Week 6 (2/9 - 2/15)   | Tue (2/11) 2h  | (Presentation) Privacy Attacks | Notes Submission Required | TBA     |
+|                       | Thur (2/13) 1h | (Presentation) Differential Privacy I | Notes Submission Required | TBA     |
 | Week 7 (2/16 - 2/22)  | Reading Break  |                                                              |                                                         | TBA     |
-| Week 8 (2/23 - 3/1)   | Tue (2/25) 2h  | (Presentation) Deep Learning Privacy III - Machine Unlearning & Watermarking |                                                         | TBA     |
-|                       | Thur (2/27) 1h | *Course cancelled*                                           | Due: 3/1 Peer Evaluation & Summary                      |         |
-| Week 9 (3/2 - 3/8)    | Tue (3/4) 2h   | (Presentation) Deep Learning Privacy V - Model Stealing      |                                                         | TBA     |
-|                       | Thur (3/6) 1h  | (Presentation) Deep Learning Privacy VI - Data Stealing      | Due: 3/8 Peer Evaluation & Summary                      | TBA     |
-| Week 10 (3/9 - 3/15)  | Tue (3/11) 2h  | (Lecture) Large Language Models - Recap                      |                                                         | TBA     |
-|                       | Thur (3/13) 1h | (Lecture) LLM Trustworthiness Overview                       |                                                         | TBA     |
-| Week 11 (3/16 - 3/22) | Tue (3/18) 2h  | (Presentation) LLM Alignment Tuning - I                      |                                                         | TBA     |
-|                       | Thur (3/20) 1h | (Presentation) LLM Alignment Tuning - II                     | Due: 3/22 Peer Evaluation & Summary                     | TBA     |
-| Week 12 (3/23 - 3/29) | Tue (3/25) 2h  | (Presentation) LLM Prompt Injection - I                      |                                                         | TBA     |
-|                       | Thur (3/27) 1h | (Presentation) LLM Prompt Injection - II                     | Due: 3/29 Peer Evaluation & Summary                     | TBA     |
-| Week 13 (3/30 - 4/5)  | Tue (4/1) 2h   | (Presentation) LLM Finetuning Attacks - I                    |                                                         | TBA     |
-|                       | Thur (4/3) 1h  | (Presentation) LLM Finetuning Attacks - II                   | Due: 4/5 Peer Evaluation & Summary                      | TBA     |
+| Week 8 (2/23 - 3/1)   | Tue (2/25) 2h  | (Presentation) Differential Privacy II | Notes Submission Required | TBA     |
+|                       | Thur (2/27) 1h | *Course cancelled*                                           |                       |         |
+| Week 9 (3/2 - 3/8)    | Tue (3/4) 2h   | (Presentation) Copyright, Unlearning, Model Stealing | Notes Submission Required | TBA     |
+|                       | Thur (3/6) 1h  | (Presentation) Fairness | Notes Submission Required | TBA     |
+| Week 10 (3/9 - 3/15)  | Tue (3/11) 2h  | (Presentation) Data Poisoning Attacks | Notes Submission Required | TBA     |
+|                       | Thur (3/13) 1h | (Presentation) Data Valuation | Notes Submission Required | TBA     |
+| Week 11 (3/16 - 3/22) | Tue (3/18) 2h  | (Lecture) Large Language Models and Foundation Models: Overview and Frontiers |                                                         | TBA     |
+|                       | Thur (3/20) 1h | (Lecture) LLM Trustworthiness Overview |                      | TBA     |
+| Week 12 (3/23 - 3/29) | Tue (3/25) 2h  | (Presentation) LLM Alignment Tuning I | Notes Submission Required | TBA     |
+|                       | Thur (3/27) 1h | (Presentation) LLM Alignment Tuning II | Notes Submission Required | TBA     |
+| Week 13 (3/30 - 4/5)  | Tue (4/1) 2h   | (Presentation) LLM Prompt Injection Attacks and Defenses | Notes Submission Required | TBA     |
+|                       | Thur (4/3) 1h  | (Presentation) LLM Finetuning Attacks and Defenses       | Notes Submission Required<br>Course project Due (4/5) | TBA     |
 | Week 14 (4/6 - 4/12)  | Tue (4/8) 2h   | (Interactive Lecture) Course Project Discussion, Closing Remarks |                                                         | TBA     |
 | Week 15 (4/13-4/19)   | Fri (4/19)     | Grade Released                                               |                                                         | TBA     |
+
+
 
 </div>
 
