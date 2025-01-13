@@ -15,7 +15,6 @@ This is a seminar-style course for trustworthy deep learning. The first half of 
 
 There is no formal pre-requisite. Background in algorithms, calculus, linear algebra (e.g., MATH 151, MATH 152, MATH 232, CMPT 225), CMPT 410/726 Machine Learning **strongly recommended**. It is also recommended to have a background in CMPT 412/762 Computer Vision and CMPT 713 NLP.
 
-
 <h4 id='textbook'>Textbook and Reading Materials <a href="#textbook">#</a></h4>
 
 There is no primary reference material. We will read an assortment of research papers during lectures.
@@ -36,7 +35,7 @@ There is no primary reference material. We will read an assortment of research p
 
 [Syllabus](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EZnYhyYIANdPndmwYN1855EBevvjiS9gxOcM7fCfrgHDFQ?e=raqrmk)
 
-*Slides will be updated as the term progresses. All slides are available in [this OneDrive folder](https://1sfu-my.sharepoint.com/:f:/g/personal/linyi_sfu_ca/Ek8hTSoodFpIgvg8y9oul3wBB3qXFXm5RY7U6yhIFXyDCg?e=iJnvy5){:target="_blank"}. The slides are password encrypted - password posted in Canvas.*
+*Slides will be updated as the term progresses. All slides are available in [this OneDrive folder](https://1sfu-my.sharepoint.com/:f:/g/personal/linyi_sfu_ca/Ek8hTSoodFpIgvg8y9oul3wBB3qXFXm5RY7U6yhIFXyDCg?e=iJnvy5){:target="_blank"}. The slides are password encrypted - password posted on [Canvas](https://canvas.sfu.ca/courses/88687).*
 
 <div id='schedule_table' markdown="1">
 
@@ -44,8 +43,8 @@ There is no primary reference material. We will read an assortment of research p
 | --------------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------- |
 | Week 1 (1/5 - 1/11)   | Tue (1/7) 2h   | (Lecture) [Syllabus, Introduction to Deep Learning I, Homework 0 Explained](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EWZHYbIfrXdFkmvGH4zEqDwBmyxnuB6A2VhetZ83UWmCLQ?e=U3dSaA)         | Homework 0 Release                                      | See References in slides     |
 |                       | Thur (1/9) 1h  | (Lecture) [Introduction to Deep Learning II](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EeXX-lAJ_SdKna9m7WIXwy0B5I2PQ2nJPY2fmKT1a1id4g?e=gurIS4) |                                                         | See References in Slides |
-| Week 2 (1/12 - 1/18)  | Tue (1/14) 2h  | (Lecture) Introduction to Deep Learning III; Trustworthy Deep Learning Overview |                                                         | TBA     |
-|                       | Thur (1/16) 1h | (Lecture) Robustness Threats in Deep Learning - Attacks      | Presentation Signing-up Sheet Release<br>Homework 0 Due (1/18) | TBA     |
+| Week 2 (1/12 - 1/18)  | Tue (1/14) 2h  | (Lecture) Introduction to Deep Learning III |                                                         | TBA     |
+|                       | Thur (1/16) 1h | (Lecture) Course Presentation Instructions; Trustworthy Deep Learning Overview | Presentation Signing-up Sheet Release<br>Homework 0 Due (1/18) | TBA     |
 | Week 3 (1/19 - 1/25)  | Tue (1/21) 2h  | (Lecture) Robustness Threats in Deep Learning - Attacks      |                                                         | TBA     |
 |                       | Thur (1/23) 1h | (Lecture) Robustness Threats in Deep Learning - Defenses     |                                                         | TBA     |
 | Week 4 (1/26 - 2/1)   | Tue (1/28) 2h  | (Lecture) Robustness Threats in Deep Learning - Defenses     |                                                         | TBA     |
@@ -62,14 +61,13 @@ There is no primary reference material. We will read an assortment of research p
 | Week 10 (3/9 - 3/15)  | Tue (3/11) 2h  | (Presentation) Data Poisoning Attacks | Notes Submission Required | TBA     |
 |                       | Thur (3/13) 1h | (Presentation) Data Valuation | Notes Submission Required | TBA     |
 | Week 11 (3/16 - 3/22) | Tue (3/18) 2h  | (Lecture) Large Language Models and Foundation Models: Overview and Frontiers |                                                         | TBA     |
-|                       | Thur (3/20) 1h | (Lecture) LLM Trustworthiness Overview |                      | TBA     |
-| Week 12 (3/23 - 3/29) | Tue (3/25) 2h  | (Presentation) LLM Alignment Tuning I | Notes Submission Required | TBA     |
-|                       | Thur (3/27) 1h | (Presentation) LLM Alignment Tuning II | Notes Submission Required | TBA     |
-| Week 13 (3/30 - 4/5)  | Tue (4/1) 2h   | (Presentation) LLM Prompt Injection Attacks and Defenses | Notes Submission Required | TBA     |
-|                       | Thur (4/3) 1h  | (Presentation) LLM Finetuning Attacks and Defenses       | Notes Submission Required<br>Course project Due (4/5) | TBA     |
+|                       | Thur (3/20) 1h | (Lecture) LLM Trustworthiness Overview |                      | DecodingTrust, AI Risk Management Both Safety and Security, Recommendations for Technical AI Safety Research Directions |
+| Week 12 (3/23 - 3/29) | Tue (3/25) 2h  | (Presentation) LLM Alignment Tuning | Notes Submission Required | TBA     |
+|                       | Thur (3/27) 1h | (Presentation) LLM Safety Benchmarks | Notes Submission Required | TBA     |
+| Week 13 (3/30 - 4/5)  | Tue (4/1) 2h   | (Presentation) LLM Prompting and Prompt Injection | Notes Submission Required | TBA     |
+|                       | Thur (4/3) 1h  | (Presentation) LLM Finetuning Attacks and Defenses       | Notes Submission Required<br>Course project Due (4/5) | https://arxiv.org/abs/2409.18169 |
 | Week 14 (4/6 - 4/12)  | Tue (4/8) 2h   | (Interactive Lecture) Course Project Discussion, Closing Remarks |                                                         | TBA     |
 | Week 15 (4/13-4/19)   | Fri (4/19)     | Grade Released                                               |                                                         | TBA     |
-
 
 
 </div>
@@ -78,25 +76,34 @@ There is no primary reference material. We will read an assortment of research p
 
 *Trustworthy deep learning is a broad area. Some important topics are not covered in lectures and presentations due to the limited time frame. Some of them are listed below.*
 
-- Data Poisoning Attacks and Defenses
 - LLM Hallucination
+- Risks of LLM agents
+- Reward hacking and goal misspecification in RL and RLHF
 - Social-economic Impact with Generative AI
 - ...
 
 <h4 id='projects'>Assignments and Project <a href='#projects'>#</a></h4>
 
-- Homework 0: `TBA`
+- [Homework 0](https://canvas.sfu.ca/courses/88687/assignments/1051678)
+  - Deadline: 23:59, Jan 18, 2025
+- Presentation:
+  - Signing-up spreadsheet link: `TBA`
+  - Signing-up deadline: Feb 8, 2025
+  - Presentation date: see the signed slot
 - Course Project: `TBA`
-- Presentation Signing-up Sheet: `TBA`
+  - Deadline: Apr 5, 2025
 - Note Submission: `TBA`
-
+  - Only for student presentation dates
+  - Due 7 days after each presentation date
+  - Submit on Canvas
+  - Up to 3 exemptions
 
 <h4 id='info'>Information Platform <a href='#info'>#</a></h4>
 
 - Course website (here)
-- CourSys and Canvas: `TBA`
-- Piazza: `TBA`
-- Syllabus link: `TBA`
+- [Canvas](https://canvas.sfu.ca/courses/88687)
+- [Piazza](https://piazza.com/sfu.ca/spring2025/cmpt419983/home)
+- [Syllabus](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EZnYhyYIANdPndmwYN1855EBevvjiS9gxOcM7fCfrgHDFQ?e=raqrmk)
 
 <h4 id='ethics'>Ethics Statement <a href='#ethics'>#</a></h4>
 
