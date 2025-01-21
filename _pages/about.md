@@ -44,9 +44,9 @@ There is no primary reference material. We will read an assortment of research p
 | Week 1 (1/5 - 1/11)   | Tue (1/7) 2h   | (Lecture) [Syllabus, Introduction to Deep Learning I, Homework 0 Explained](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EWZHYbIfrXdFkmvGH4zEqDwBmyxnuB6A2VhetZ83UWmCLQ?e=U3dSaA)         | Homework 0 Release                                      | See References in slides     |
 |                       | Thur (1/9) 1h  | (Lecture) [Introduction to Deep Learning II](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EeXX-lAJ_SdKna9m7WIXwy0B5I2PQ2nJPY2fmKT1a1id4g?e=gurIS4) |                                                         | See References in Slides |
 | Week 2 (1/12 - 1/18)  | Tue (1/14) 2h  | (Lecture) [Introduction to Deep Learning III](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/ESkHHCjfuDxIpzS8-pdoCp0B-SdOYccM2wtugDVhX8MG_w?e=j1SWzb) |                                                         | See References in Slides     |
-|                       | Thur (1/16) 1h | (Lecture) [Course Presentation Instructions; Trustworthy Deep Learning Overview](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EWXYhwIVinxBrbBFYjuJm5MBY7TrtvTHxvkbAXVEqzsi1w?e=rjF3ht) | Presentation Signing-up Sheet Release<br>Homework 0 Due (1/18) | TBA     |
-| Week 3 (1/19 - 1/25)  | Tue (1/21) 2h  | (Lecture) Robustness Threats in Deep Learning - Attacks      |                                                         | TBA     |
-|                       | Thur (1/23) 1h | (Lecture) Robustness Threats in Deep Learning - Defenses     |                                                         | TBA     |
+|                       | Thur (1/16) 1h | (Lecture) [Course Presentation Instructions; Trustworthy Deep Learning Overview](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EWXYhwIVinxBrbBFYjuJm5MBY7TrtvTHxvkbAXVEqzsi1w?e=rjF3ht) | Presentation Signing-up Sheet Release<br>Homework 0 Due (1/18) | See References in Slides     |
+| Week 3 (1/19 - 1/25)  | Tue (1/21) 2h  | (Lecture) [Robustness Threats in Deep Learning - Attacks I](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/ESqQK5e2LbxMgbtmfLprWIkB_R8XjImwpsUx5MRtc8G2uw?e=yeXtAo)     |                                                         | See References in Slides     |
+|                       | Thur (1/23) 1h | (Lecture) Robustness Threats in Deep Learning - Attacks II    |                                                         | TBA     |
 | Week 4 (1/26 - 2/1)   | Tue (1/28) 2h  | (Lecture) Robustness Threats in Deep Learning - Defenses     |                                                         | TBA     |
 |                       | Thur (1/30) 1h | (Lecture) Robustness Threats in Deep Learning - Certification |                                                         | TBA     |
 | Week 5 (2/2 - 2/8)    | Tue (2/4) 2h   | (Lecture) Robustness Threats in Deep Learning - Certification |                                                         | TBA     |
@@ -61,7 +61,7 @@ There is no primary reference material. We will read an assortment of research p
 | Week 10 (3/9 - 3/15)  | Tue (3/11) 2h  | (Presentation) Data Poisoning Attacks | Notes Submission Required | TBA     |
 |                       | Thur (3/13) 1h | (Presentation) Data Valuation | Notes Submission Required | TBA     |
 | Week 11 (3/16 - 3/22) | Tue (3/18) 2h  | (Lecture) Large Language Models and Foundation Models: Overview and Frontiers |                                                         | TBA     |
-|                       | Thur (3/20) 1h | (Lecture) LLM Trustworthiness Overview |                      | DecodingTrust, AI Risk Management Both Safety and Security, Recommendations for Technical AI Safety Research Directions |
+|                       | Thur (3/20) 1h | (Lecture) LLM Trustworthiness Overview |                      | DecodingTrust<br>AI Risk Management Both Safety and Security<br>Recommendations for Technical AI Safety Research Directions |
 | Week 12 (3/23 - 3/29) | Tue (3/25) 2h  | (Presentation) LLM Alignment Tuning | Notes Submission Required | TBA     |
 |                       | Thur (3/27) 1h | (Presentation) LLM Safety Benchmarks | Notes Submission Required | TBA     |
 | Week 13 (3/30 - 4/5)  | Tue (4/1) 2h   | (Presentation) LLM Prompting and Prompt Injection | Notes Submission Required | TBA     |
@@ -86,8 +86,9 @@ There is no primary reference material. We will read an assortment of research p
 
 - [Homework 0](https://canvas.sfu.ca/courses/88687/assignments/1051678)
   - Deadline: 23:59, Jan 18, 2025
+  - Score release in Week 4
 - Presentation:
-  - Signing-up spreadsheet link: `TBA`
+  - [Signing-up spreadsheet](https://canvas.sfu.ca/courses/88687/discussion_topics/1916702)
   - Signing-up deadline: Feb 8, 2025
   - Presentation date: see the signed slot
 - Course Project: `TBA`
