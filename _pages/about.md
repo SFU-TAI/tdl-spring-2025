@@ -48,7 +48,7 @@ There is no primary reference material. We will read an assortment of research p
 | Week 3 (1/19 - 1/25)  | Tue (1/21) 2h  | (Lecture) [Robustness Threats in Deep Learning - Attacks I](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/ESqQK5e2LbxMgbtmfLprWIkB_R8XjImwpsUx5MRtc8G2uw?e=yeXtAo)     |                                                         | See References in Slides     |
 |                       | Thur (1/23) 1h | (Lecture) [Robustness Threats in Deep Learning - Attacks II](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EfJwpfyFPQ9MrAoEuJPtZzQB0XWO07YLmqpvnTGqJFHELQ?e=eNt0al)    |                                                         | See References in Slides     |
 | Week 4 (1/26 - 2/1)   | Tue (1/28) 2h  | (Lecture) [Robustness Threats in Deep Learning - Defenses](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EbDvWSPtn2FGsGR4jBec13oBVPQRxkvUoOfyyqwswZZgtw?e=PyVeVR)     |                                                         | See References in Slides     |
-|                       | Thur (1/30) 1h | (Lecture) Robustness Threats in Deep Learning - Certification I |                                                         | TBA     |
+|                       | Thur (1/30) 1h | (Lecture) [Robustness Threats in Deep Learning - Certification I](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EfcE9iv11hVNo-Ik3QmZXywBAd3pINpdb7wrR1QINQ7zwA?e=uGwLec) |                                                         | See References in Slides     |
 | Week 5 (2/2 - 2/8)    | Tue (2/4) 2h   | (Lecture) Robustness Threats in Deep Learning - Certification II |                                                         | TBA     |
 |                       | Thur (2/6) 1h  | (Lecture) Course Project Release                             | Course Project Release<br>Presentation Signing-up Due (2/8) | TBA     |
 | Week 6 (2/9 - 2/15)   | Tue (2/11) 2h  | (Presentation) Privacy Attacks | Notes Submission Required | TBA     |
@@ -86,7 +86,7 @@ There is no primary reference material. We will read an assortment of research p
 
 - [Homework 0](https://canvas.sfu.ca/courses/88687/assignments/1051678)
   - Deadline: 23:59, Jan 18, 2025
-  - Score release in Week 4
+  - Score released (Jan 28, 2025)
 - Presentation:
   - [Signing-up spreadsheet](https://canvas.sfu.ca/courses/88687/discussion_topics/1916702)
   - Signing-up deadline: Feb 8, 2025
