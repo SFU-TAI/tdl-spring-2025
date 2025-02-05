@@ -51,7 +51,7 @@ There is no primary reference material. We will read an assortment of research p
 |                       | Thur (1/30) 1h | (Lecture) [Robustness Threats in Deep Learning - Certification I](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/EfcE9iv11hVNo-Ik3QmZXywBAd3pINpdb7wrR1QINQ7zwA?e=uGwLec) |                                                         | See References in Slides     |
 | Week 5 (2/2 - 2/8)    | Tue (2/4) 2h   | *Class cancelled* |                                                         |     |
 |                       | Thur (2/6) 1h  | (Lecture) [Robustness Threats in Deep Learning - Certification I (Cont.d) & II](https://1sfu-my.sharepoint.com/:b:/g/personal/linyi_sfu_ca/ERDinh4SzOdNtsvtsZ9k1scBEk-YsGNE2CTxAMicM8_esw?e=uvC5fy)  | Presentation Signing-up Due (2/8) | See References in Slides     |
-| Week 6 (2/9 - 2/15)   | Tue (2/11) 2h  | (Presentation) Robustness Threats in Deep Learning - Certification II (Cont.d) | Course Project Release        |     |
+| Week 6 (2/9 - 2/15)   | Tue (2/11) 2h  | (Lecture) Robustness Threats in Deep Learning - Certification II (Cont.d) | Course Project Release        |     |
 |                       | Thur (2/13) 1h | (Presentation) Privacy Attacks | Notes Submission Required | TBA     |
 | Week 7 (2/16 - 2/22)  | Reading Break  |                                                              |                                                         | TBA     |
 | Week 8 (2/23 - 3/1)   | Tue (2/25) 2h  | (Presentation) Privacy Attacks & Differential Privacy | Notes Submission Required | TBA     |
