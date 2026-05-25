@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+[Please click here for the latest (Summer 2026) offering version.](https://sfu-tai.github.io/tdl-summer-2026/)
+
 Deep learning, represented by large language models, is revolutionizing human lives. However, trustworthiness threats in deep learning widely exist, posing great challenges to AI safety, security, and reliability. This course introduces state-of-the-art frontiers on deep learning research for a wide range of trustworthiness issues, including threat discovery, mitigation, and certification methods through seminar-style presentations and hands-on projects.
 
 This is a seminar-style course for trustworthy deep learning. The first half of the course is an overview of deep learning and preliminaries for trustworthy AI methods, including training of neural networks, common neural network architectures, large language models, the definition of AI attacks, defences, and certification and verification in the context of AI. The second half of the course visits representative and recent research papers in the field through student presentations, covering topics like evasion attacks and defences, robustness certification, differential privacy, membership inference attacks, watermarks, detection of AI-generated contents, machine unlearning, prompt injection attacks, model stealing, and finetuning attacks. 
